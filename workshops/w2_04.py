@@ -793,9 +793,9 @@ def run_workshop():
     print("─" * 62)
     print("  Project : Physics-Governed IoT Framework for IP Law Enforcement")
     print("  Author  : จ.ส.อ.ภูมรินทร์  แสนศรี")
-    print("  Org     : กองฝึกอบรม กรมการสื่อสารทหาร กองบัญชาการกองทัพไทย")
+    print("  Org     : กองกิจการพลเรอน หน่วยบัญชาการทหารพัฒนา กองบัญชาการกองทัพไทย")
     print("  Date    : 22 เมษายน 2569")
-    print("  Code    : w2_lstm_baseline_w1.py (v4)")
+    print("  Code    : w2_04.py (No.4)")
     print("█" * 62)
 
     # ──────────────────────────────────────────────────────────
